@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpeg.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_robot.png.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\robot.png"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\layout_detail_page.xml.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\layout\\detail_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\layout_signin.xml.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mainicon.jpg.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\mainicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\layout_signup.xml.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_voice.jpg.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\voice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_layout.xml.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.png.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Shish\\Downloads\\Reciever\\CurrencyConverterExchange\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
