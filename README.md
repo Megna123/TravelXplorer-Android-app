@@ -1,6 +1,6 @@
 # TravelXplorer-Android-app #
 &nbsp;
-      TravelXplorer is an android app that allows the users to plan their trips  during vacation.
+  TravelXplorer is an android app that allows the users to plan their trips  during vacation.
 
 **Problem Statement:**
 &nbsp;
