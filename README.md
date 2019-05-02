@@ -20,7 +20,7 @@ The app uses the Google places API to get the tourist information.This app uses 
 &nbsp;
 ![Untitled drawing](https://user-images.githubusercontent.com/32143377/57042435-78e88f80-6c19-11e9-9b89-dd6d83c97c90.jpg)
 
-**Demo
+**Demo**
 ![TravelXplorer](https://user-images.githubusercontent.com/32143377/57060901-e4f5e280-6c6f-11e9-9926-8d987f39708f.gif)
 
   
